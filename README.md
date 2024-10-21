@@ -4,6 +4,8 @@
 
 The Copilot Extension processes image files to generate code snippets from visual data, analyze and interpret architecture diagrams, and convert diagram-based logic into code. It can extract key information to create class files, model data from images, and identify target resource requirements. Additionally, it generates test cases from visual flows and parses network topology diagrams to produce configuration scripts.
 
+> **Note:** This solution was developed to demonstrate potential use cases and is not intended for production use. If you plan to deploy it in a production environment, please customize it to meet your non-functional requirements (NFRs). This repository is not regularly maintained or updated.
+
 ## Components:
 
 1.  Copilot Chat: User interfacce
